@@ -11,15 +11,15 @@ body {
 }
 main {
   background-color: hsl(0, 0%, 100%);
-  width: 28rem;
-  height: 40rem;
+  width: 25rem;
+  height: 38rem;
   margin: 5rem auto 20px auto;
   padding: 20px 10px 10px 10px;
   text-align: center;
   border-radius: 15px;
 }
 img {
-  width: 25rem;
+  width: 22rem;
   height: 22rem;
   margin-left: auto;
   margin-right: auto;
@@ -27,25 +27,31 @@ img {
 }
 
 .text {
-  width: 25rem;
+  width: 22rem;
   height: 12rem;
   margin-top: 30px;
   margin-left: auto;
   margin-right: auto;
   padding: 10px;
+  /* background-color: red; */
 }
 
 h3 {
   font-weight: bolder;
-  font-size: 30px;
+  font-size: 25px;
 }
 p {
   opacity: 0.5;
   margin-top: 26px;
-  font-size: larger;
+  font-size: large;
 }
 
 footer {
   font-size: 20px;
   font-weight: 900;
+  /* text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: red;
+  width: fit-content; */
 }
